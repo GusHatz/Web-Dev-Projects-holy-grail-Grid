@@ -1,0 +1,2 @@
+Responsve Grid practice with Bootstrap
+and flexbox(holy grail project).
